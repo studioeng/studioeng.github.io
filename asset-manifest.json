@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b4bd895.css",
+    "main.js": "/static/js/main.d80280ce.js",
+    "static/media/newspaper.png": "/static/media/newspaper.ef18ba82b4a3a5793f42.png",
+    "static/media/makerek.png": "/static/media/makerek.b4b46dcc28a9391f8b54.png",
+    "static/media/office01.png": "/static/media/office01.46bca5797faa86f8d219.png",
+    "static/media/Spaniel01_gradient.png": "/static/media/Spaniel01_gradient.763b94bc317becab4b8e.png",
+    "static/media/rider01.png": "/static/media/rider01.fa190c03ee08155cfa93.png",
+    "static/media/newspaper02.png": "/static/media/newspaper02.63957beebab9c4c5842a.png",
+    "static/media/dashboard01@2x.png": "/static/media/dashboard01@2x.db25631ef96ca4c53855.png",
+    "static/media/whellies01.png": "/static/media/whellies01.1ce4a7674c7fbe20274a.png",
+    "static/media/office03.png": "/static/media/office03.549c0645c9dd2a3ce17f.png",
+    "static/media/office04.png": "/static/media/office04.6459794c6c7022cf6d99.png",
+    "static/media/office02.png": "/static/media/office02.a9b24cb13e75e2e1b076.png",
+    "static/media/socks.png": "/static/media/socks.39340cfec67eeb6a668d.png",
+    "static/media/lab01.png": "/static/media/lab01.781aee37a6b986274d1f.png",
+    "static/media/logo.png": "/static/media/logo.15760da225439ef6bb6a.png",
+    "index.html": "/index.html",
+    "main.7b4bd895.css.map": "/static/css/main.7b4bd895.css.map",
+    "main.d80280ce.js.map": "/static/js/main.d80280ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b4bd895.css",
+    "static/js/main.d80280ce.js"
+  ]
+}
